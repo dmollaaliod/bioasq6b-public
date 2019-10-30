@@ -1,13 +1,15 @@
 # README #
 
-This README would normally documents the steps necessary to install the code.
-
 ### What is this repository for? ###
 
 This code implements Macquarie University's experiments and
 participation in BioASQ 6b.
+* [Project page](http://web.science.mq.edu.au/~diego/medicalnlp/)
 * [BioASQ](http://www.bioasq.org)
-* [Learn Markdown](https://bitbucket.org/tutorials/markdowndemo)
+
+If you use this code, please cite the following paper:
+
+D. Mollá. Macquarie University at BioASQ 6b: Deep learning and deep reinforcement learning for query-based multi-document summarisation (2018). Proceedings of the 6th BioASQ Workshop A challenge on large-scale biomedical semantic indexing and question answering. [[Proceedings](https://www.aclweb.org/anthology/W18-5303/)] [[arxiv](https://arxiv.org/abs/1809.05283)]
 
 ### How do I get set up? ###
 
